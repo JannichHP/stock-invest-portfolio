@@ -1,0 +1,468 @@
+[
+    {
+      "Symbol": "AACG",
+      "Security Name": "ATA Creativity Global - American Depositary Shares",
+      "Market Category": "American Depositary Shares"
+    },
+    {
+      "Symbol": "AACI",
+      "Security Name": "Armada Acquisition Corp. I - Common Stock",
+      "Market Category": "Common Stock"
+    },
+    {
+      "Symbol": "AACIU",
+      "Security Name": "Armada Acquisition Corp. I - Unit",
+      "Market Category": "Unit"
+    },
+    {
+      "Symbol": "AACIW",
+      "Security Name": "Armada Acquisition Corp. I - Warrant",
+      "Market Category": "Warrant"
+    },
+    {
+      "Symbol": "AADI",
+      "Security Name": "Aadi Bioscience, Inc. - Common Stock",
+      "Market Category": "Common Stock"
+    },
+    {
+      "Symbol": "AADR",
+      "Security Name": "AdvisorShares Dorsey Wright ADR ETF",
+      "Market Category": "ETF"
+    },
+    {
+      "Symbol": "AAGR",
+      "Security Name": "African Agriculture Holdings Inc. - Common Stock",
+      "Market Category": "Common Stock"
+    },
+    {
+      "Symbol": "AAGRW",
+      "Security Name": "African Agriculture Holdings Inc. - Warrant",
+      "Market Category": "Warrant"
+    },
+    {
+      "Symbol": "AAL",
+      "Security Name": "American Airlines Group, Inc. - Common Stock",
+      "Market Category": "Common Stock"
+    },
+    {
+      "Symbol": "AAME",
+      "Security Name": "Atlantic American Corporation - Common Stock",
+      "Market Category": "Common Stock"
+    },
+    {
+      "Symbol": "AAOI",
+      "Security Name": "Applied Optoelectronics, Inc. - Common Stock",
+      "Market Category": "Common Stock"
+    },
+    {
+      "Symbol": "AAON",
+      "Security Name": "AAON, Inc. - Common Stock",
+      "Market Category": "Common Stock"
+    },
+    {
+      "Symbol": "AAPB",
+      "Security Name": "GraniteShares 2x Long AAPL Daily ETF",
+      "Market Category": "ETF"
+    },
+    {
+        "Symbol": "AAPD",
+        "Security Name": "Direxion Daily AAPL Bear 1X Shares",
+        "Market Category": "ETF"
+      },
+      {
+        "Symbol": "AAPL",
+        "Security Name": "Apple Inc. - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "AAPU",
+        "Security Name": "Direxion Daily AAPL Bull 1.5X Shares",
+        "Market Category": "ETF"
+      },
+      {
+        "Symbol": "AAXJ",
+        "Security Name": "iShares MSCI All Country Asia ex Japan ETF",
+        "Market Category": "ETF"
+      },
+      {
+        "Symbol": "ABAT",
+        "Security Name": "American Battery Technology Company - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ABCB",
+        "Security Name": "Ameris Bancorp - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ABCL",
+        "Security Name": "AbCellera Biologics Inc. - Common Shares",
+        "Market Category": "Common Shares"
+      },
+      {
+        "Symbol": "ABCS",
+        "Security Name": "Alpha Blue Capital US Small-Mid Cap Dynamic ETF",
+        "Market Category": "ETF"
+      },
+      {
+        "Symbol": "ABEO",
+        "Security Name": "Abeona Therapeutics Inc. - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ABIO",
+        "Security Name": "ARCA biopharma, Inc. - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ABL",
+        "Security Name": "Abacus Life, Inc. - Class A Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ABLLW",
+        "Security Name": "Abacus Life, Inc. - Warrant",
+        "Market Category": "Warrant"
+      },
+      {
+        "Symbol": "ABLV",
+        "Security Name": "Able View Global Inc. - Class B Ordinary Shares",
+        "Market Category": "Class B Ordinary Shares"
+      },
+      {
+        "Symbol": "ABLVW",
+        "Security Name": "Able View Global Inc. - Warrant",
+        "Market Category": "Warrant"
+      },
+      {
+        "Symbol": "ABNB",
+        "Security Name": "Airbnb, Inc. - Class A Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ABOS",
+        "Security Name": "Acumen Pharmaceuticals, Inc. - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ABSI",
+        "Security Name": "Absci Corporation - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ABTS",
+        "Security Name": "Abits Group Inc - Ordinary Shares",
+        "Market Category": "Ordinary Shares"
+      },
+      {
+        "Symbol": "ABUS",
+        "Security Name": "Arbutus Biopharma Corporation - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ABVC",
+        "Security Name": "ABVC BioPharma, Inc. - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ABVX",
+        "Security Name": "Abivax SA - American Depositary Shares",
+        "Market Category": "American Depositary Shares"
+      },
+      {
+        "Symbol": "ACAB",
+        "Security Name": "Atlantic Coastal Acquisition Corp. II - Class A Common Stock",
+        "Market Category": "Class A Common Stock"
+      },
+      {
+        "Symbol": "ACABU",
+        "Security Name": "Atlantic Coastal Acquisition Corp. II - Unit",
+        "Market Category": "Unit"
+      },
+      {
+        "Symbol": "ACABW",
+        "Security Name": "Atlantic Coastal Acquisition Corp. II - Warrant",
+        "Market Category": "Warrant"
+      },
+      {
+        "Symbol": "ACAC",
+        "Security Name": "Acri Capital Acquisition Corporation - Class A Common Stock",
+        "Market Category": "Class A Common Stock"
+      },
+      {
+        "Symbol": "ACACU",
+        "Security Name": "Acri Capital Acquisition Corporation - Unit",
+        "Market Category": "Unit"
+      },
+      {
+        "Symbol": "ACACW",
+        "Security Name": "Acri Capital Acquisition Corporation - Warrant",
+        "Market Category": "Warrant"
+      },
+      {
+        "Symbol": "ACAD",
+        "Security Name": "ACADIA Pharmaceuticals Inc. - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ACB",
+        "Security Name": "Aurora Cannabis Inc. - Common Shares",
+        "Market Category": "Common Shares"
+      },
+      {
+        "Symbol": "ACBA",
+        "Security Name": "Ace Global Business Acquisition Limited - Ordinary Shares",
+        "Market Category": "Ordinary Shares"
+      },
+      {
+        "Symbol": "ACBAU",
+        "Security Name": "Ace Global Business Acquisition Limited - Unit",
+        "Market Category": "Unit"
+      },
+      {
+        "Symbol": "ACBAW",
+        "Security Name": "Ace Global Business Acquisition Limited - Warrant",
+        "Market Category": "Warrant"
+      },
+      {
+        "Symbol": "ACCD",
+        "Security Name": "Accolade, Inc. - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ACDC",
+        "Security Name": "ProFrac Holding Corp. - Class A Common Stock",
+        "Market Category": "Class A Common Stock"
+      },
+      {
+        "Symbol": "ACET",
+        "Security Name": "Adicet Bio, Inc. - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ACGL",
+        "Security Name": "Arch Capital Group Ltd. - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ACGLN",
+        "Security Name": "Arch Capital Group Ltd. - Depositary Shares",
+        "Market Category": "Depositary Shares"
+      },
+      {
+        "Symbol": "ACHC",
+        "Security Name": "Acadia Healthcare Company, Inc. - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ACHL",
+        "Security Name": "Achilles Therapeutics plc - American Depositary Shares",
+        "Market Category": "American Depositary Shares"
+      },
+      {
+        "Symbol": "ACHV",
+        "Security Name": "Achieve Life Sciences, Inc.  - Common Shares",
+        "Market Category": "Common Shares"
+      },
+      {
+        "Symbol": "ACIC",
+        "Security Name": "American Coastal Insurance Corporation - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ACIU",
+        "Security Name": "AC Immune SA - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ACIW",
+        "Security Name": "ACI Worldwide, Inc. - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ACLS",
+        "Security Name": "Axcelis Technologies, Inc. - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ACLX",
+        "Security Name": "Arcellx, Inc. - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ACMR",
+        "Security Name": "ACM Research, Inc. - Class A Common Stock",
+        "Market Category": "Class A Common Stock"
+      },
+      {
+        "Symbol": "ACNB",
+        "Security Name": "ACNB Corporation - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ACNT",
+        "Security Name": "Ascent Industries Co. - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ACON",
+        "Security Name": "Aclarion, Inc. - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ACONW",
+        "Security Name": "Aclarion, Inc. - Warrant",
+        "Market Category": "Warrant"
+      },
+      {
+        "Symbol": "ACOR",
+        "Security Name": "Acorda Therapeutics, Inc. - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ACRS",
+        "Security Name": "Aclaris Therapeutics, Inc. - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ACRV",
+        "Security Name": "Acrivon Therapeutics, Inc. - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ACST",
+        "Security Name": "Acasti Pharma, Inc.  - Class A Common Stock",
+        "Market Category": "Class A Common Stock"
+      },
+      {
+        "Symbol": "ACT",
+        "Security Name": "Enact Holdings, Inc. - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ACTG",
+        "Security Name": "Acacia Research Corporation - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ACVA",
+        "Security Name": "ACV Auctions Inc. - Class A Common Stock",
+        "Market Category": "Class A Common Stock"
+      },
+      {
+        "Symbol": "ACWI",
+        "Security Name": "iShares MSCI ACWI ETF",
+        "Market Category": "ETF"
+      },
+      {
+        "Symbol": "ACWX",
+        "Security Name": "iShares MSCI ACWI ex U.S. ETF",
+        "Market Category": "ETF"
+      },
+      {
+        "Symbol": "ACXP",
+        "Security Name": "Acurx Pharmaceuticals, Inc. - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ADAG",
+        "Security Name": "Adagene Inc. - ADS",
+        "Market Category": "ADS"
+      },
+      {
+        "Symbol": "ADAP",
+        "Security Name": "Adaptimmune Therapeutics plc - American Depositary Shares",
+        "Market Category": "American Depositary Shares"
+      },
+      {
+        "Symbol": "ADBE",
+        "Security Name": "Adobe Inc. - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ADD",
+        "Security Name": "Color Star Technology Co., Ltd. - Class A Ordinary Shares",
+        "Market Category": "Class A Ordinary Shares"
+      },
+      {
+        "Symbol": "ADEA",
+        "Security Name": "Adeia Inc.  - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ADI",
+        "Security Name": "Analog Devices, Inc. - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ADIL",
+        "Security Name": "Adial Pharmaceuticals, Inc - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ADMA",
+        "Security Name": "ADMA Biologics Inc - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ADN",
+        "Security Name": "Advent Technologies Holdings, Inc. - Class A Common Stock",
+        "Market Category": "Class A Common Stock"
+      },
+      {
+        "Symbol": "ADNWW",
+        "Security Name": "Advent Technologies Holdings, Inc. - Warrant",
+        "Market Category": "Warrant"
+      },
+      {
+        "Symbol": "ADOC",
+        "Security Name": "Edoc Acquisition Corp. - Class A Ordinary Share",
+        "Market Category": "Class A Ordinary Share"
+      },
+      {
+        "Symbol": "ADOCR",
+        "Security Name": "Edoc Acquisition Corp. - Right",
+        "Market Category": "Right"
+      },
+      {
+        "Symbol": "ADOCW",
+        "Security Name": "Edoc Acquisition Corp. - Warrant",
+        "Market Category": "Warrant"
+      },
+      {
+        "Symbol": "ADP",
+        "Security Name": "Automatic Data Processing, Inc. - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ADPT",
+        "Security Name": "Adaptive Biotechnologies Corporation - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ADSE",
+        "Security Name": "ADS-TEC ENERGY PLC - Ordinary Shares",
+        "Market Category": "Ordinary Shares"
+      },
+      {
+        "Symbol": "ADSEW",
+        "Security Name": "ADS-TEC ENERGY PLC - Warrant",
+        "Market Category": "Warrant"
+      },
+      {
+        "Symbol": "ADSK",
+        "Security Name": "Autodesk, Inc. - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ADTH",
+        "Security Name": "AdTheorent Holding Company, Inc. - Common Stock",
+        "Market Category": "Common Stock"
+      },
+      {
+        "Symbol": "ADTHW",
+        "Security Name": "AdTheorent Holding Company, Inc. - Warrants",
+        "Market Category": "Warrants"
+      }
+  ]
+  
